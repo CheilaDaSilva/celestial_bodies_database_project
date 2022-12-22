@@ -1,4 +1,4 @@
-# :laptop Project: Creating Relational Databases on PostgreSQL 
+# 💻 Project: Creating Relational Databases on PostgreSQL 
 
 ![celestial bodies database banner](https://user-images.githubusercontent.com/88495091/209190769-ea91b4cd-e3da-4c6d-98dd-e46c752ffeb9.png)
 
